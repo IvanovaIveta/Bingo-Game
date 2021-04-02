@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578057601 source:c:\users\iveta\desktop\pik 1 fkst\bingo game project  iveta ivanova - pik1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
